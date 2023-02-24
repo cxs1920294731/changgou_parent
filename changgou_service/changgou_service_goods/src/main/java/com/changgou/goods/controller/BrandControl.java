@@ -23,8 +23,7 @@ public class BrandControl {
     public Result<List<Brand>> findList() {
         List<Brand> brandList = brandService.findList();
         System.out.println(brandList);
-        System.out.println(brandList);
-        System.out.println(brandList);
+        
 //        Result<Object> chenggong = new Result<>(true, StatusCode.OK, "chenggong", brandList);
         return new Result<>(true, StatusCode.OK, "查询成功", brandList);
 
