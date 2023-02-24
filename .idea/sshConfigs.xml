@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="152.32.156.153" id="750d11de-b6f9-459a-bb45-f9e3b448cd09" port="22" customName="孟买服务器" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="孟买服务器" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="8.219.195.167" id="02e415a6-5116-4f27-a68b-cc5772c91bf1" port="22" customName="阿里云-新加坡" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="阿里云-新加坡" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
